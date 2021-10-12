@@ -1,1 +1,3 @@
 # javaProject
+
+Hello friend!
