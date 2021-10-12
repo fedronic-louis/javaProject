@@ -1,10 +1,12 @@
+package Image;
+
 import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 import java.io.File;
 
 import javax.imageio.ImageIO;
 
-public class imageTest 
+public class ImageTest1 
 {
 
 	public static void main(String[] args) throws Exception 
